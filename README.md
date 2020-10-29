@@ -2,7 +2,7 @@
 Este projeto tem o objetivo de otimizar a busca por informações de qualidade sobre Sistemas Multimídia disponíveis na web, listando as referências.
 
 ## Canais no YouTube com Aulas ou Explicações
-[Ossia - Centro Musical](https://www.youtube.com/user/OssiaCentroMusical){:target="_blank"}
+<a href="https://www.youtube.com/user/OssiaCentroMusical" target="_blank">Ossia - Centro Musical</a>
 
 Brainstorm Tutoriais - Edição de Vídeo
 https://www.youtube.com/user/BrainstormTutoriais2
