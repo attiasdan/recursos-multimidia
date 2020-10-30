@@ -41,8 +41,6 @@ Este projeto tem o objetivo de otimizar a busca por informações de qualidade s
 - [Sistemas de Vídeo](https://www.youtube.com/watch?v=tilSkSclJY0&list=PLs-Dm5hMoYpGY2EmpZTFtAK6ABcFuo2vr&ab_channel=ArthurPorto)
 - []()
 - []()
-- []()
-- []()
 
 ## Músicas Gratuitas e Sem Direitos Autorais
 - [NoCopyrightSounds](https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg)
