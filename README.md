@@ -1,6 +1,16 @@
 # Recursos gratuitos para Sistemas Multimídia
 Este projeto tem por objetivo otimizar a busca por informações de qualidade sobre Sistemas Multimídia, listando as referências disponíveis na Web. Dando preferência a conteúdos gratuitos.
 
+# Quem pode se beneficiar com isto?
+- Videomakers;
+- Designers Gráfico;
+- Designers de Interface Gráfica;
+- Desenvolvedores Front-end;
+- Desenvolvedores Web;
+- Programadores Web;
+- Profissionais de Audiovisual em geral;
+- E outros profissionais de multimídia.
+
 ## Canais no YouTube com Aulas ou Explicações
 - [Ossia - Centro Musical](https://www.youtube.com/user/OssiaCentroMusical)
 - [BLK Midia](https://www.youtube.com/c/blkmidia/)
