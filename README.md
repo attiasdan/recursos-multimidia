@@ -1,5 +1,5 @@
-# Recursos Gratuitos para Sistemas Multimídia
-Este projeto tem o objetivo de otimizar a busca por informações de qualidade sobre Sistemas Multimídia disponíveis na web, listando as referências.
+# Recursos gratuitos para Sistemas Multimídia
+Este projeto tem por objetivo otimizar a busca por informações de qualidade sobre Sistemas Multimídia, listando as referências disponíveis na Web. Dando preferência a conteúdos gratuitos.
 
 ## Canais no YouTube com Aulas ou Explicações
 - [Ossia - Centro Musical](https://www.youtube.com/user/OssiaCentroMusical)
@@ -39,13 +39,20 @@ Este projeto tem o objetivo de otimizar a busca por informações de qualidade s
 
 ### Playlists de tópicos de Sistemas Multimídia
 - [Sistemas de Vídeo](https://www.youtube.com/watch?v=tilSkSclJY0&list=PLs-Dm5hMoYpGY2EmpZTFtAK6ABcFuo2vr&ab_channel=ArthurPorto)
-- []()
-- []()
+- [Curso de Áudio](https://www.youtube.com/watch?v=hc_HttanVls&list=PL_TqAU4yPHO44TveASYl3aFZH_OjZS8YW)
 
-## Músicas Gratuitas e Sem Direitos Autorais
+## Músicas Gratuitas
 - [NoCopyrightSounds](https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg)
 - [Audio Library — Music for content creators](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA)
 - [Vlog No Copyright Music](https://www.youtube.com/channel/UCEickjZj99-JJIU8_IJ7J-Q)
+- [dig.ccMixter](http://dig.ccmixter.org/)
+- [Bensound](https://www.bensound.com/)
+
+## Vídeos Gratuitos
+- [Videezy](https://pt.videezy.com/)
+- [Pexels](https://www.pexels.com/videos/)
+- [Pixabay](https://pixabay.com/pt/videos/)
+- [Life of vids](https://www.lifeofvids.com/)
 
 ## Paletas de Cores
 - [Adobe Colors](https://color.adobe.com/pt/create/color-wheel)
@@ -56,11 +63,12 @@ Este projeto tem o objetivo de otimizar a busca por informações de qualidade s
 - [NetFonts](https://www.netfontes.com.br/)
 - [Urbanfonts](https://www.urbanfonts.com/pt)
 
-## Imagens Gratuitas e Sem Direitos Autorais
+## Imagens Gratuitas
 - [Pexels](https://www.pexels.com/pt-br/)
 - [Freeimages](https://www.freeimages.com/pt)
 - [Freejpg](https://br.freejpg.com.ar/)
 - [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images)
+- [Freepik](https://br.freepik.com/)
 
 ## Ilustrações e vetores
 - [Ouch](https://icons8.com.br/illustrations)
