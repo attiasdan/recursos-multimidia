@@ -1,7 +1,7 @@
-# Recursos gratuitos para Sistemas Multimídia
+## Recursos gratuitos para Sistemas Multimídia
 Este projeto tem por objetivo otimizar a busca por informações de qualidade sobre Sistemas Multimídia, listando as referências disponíveis na Web. Dando preferência a conteúdos gratuitos.
 
-# Quem pode se beneficiar com isto?
+### Quem pode se beneficiar com isto?
 - Videomakers;
 - Designers Gráfico;
 - Designers de Interface Gráfica;
