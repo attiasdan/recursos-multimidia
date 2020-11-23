@@ -50,13 +50,15 @@ Este projeto tem por objetivo otimizar a busca por informações de qualidade so
 ### Playlists de tópicos de Sistemas Multimídia
 - [Sistemas de Vídeo](https://www.youtube.com/watch?v=tilSkSclJY0&list=PLs-Dm5hMoYpGY2EmpZTFtAK6ABcFuo2vr&ab_channel=ArthurPorto)
 - [Curso de Áudio](https://www.youtube.com/watch?v=hc_HttanVls&list=PL_TqAU4yPHO44TveASYl3aFZH_OjZS8YW)
+- [Fundamentos da Edição](https://www.youtube.com/watch?v=FZLRI96HpXQ&list=PLOdsUlopgxkee0_U-Sn7EoiF9kms7HdzM&ab_channel=AvMakers)
 
-## Músicas Gratuitas
+## Músicas e Áudios Gratuitos
 - [NoCopyrightSounds](https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg)
 - [Audio Library — Music for content creators](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA)
 - [Vlog No Copyright Music](https://www.youtube.com/channel/UCEickjZj99-JJIU8_IJ7J-Q)
 - [dig.ccMixter](http://dig.ccmixter.org/)
 - [Bensound](https://www.bensound.com/)
+- [freesound](https://freesound.org)
 
 ## Vídeos Gratuitos
 - [Videezy](https://pt.videezy.com/)
@@ -79,6 +81,11 @@ Este projeto tem por objetivo otimizar a busca por informações de qualidade so
 - [Freejpg](https://br.freejpg.com.ar/)
 - [Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images)
 - [Freepik](https://br.freepik.com/)
+- [pngpix]()
+- [png all]()
+- [plugpng]()
+- [picpng]()
+- [pngtree]()
 
 ## Ilustrações e vetores
 - [Ouch](https://icons8.com.br/illustrations)
