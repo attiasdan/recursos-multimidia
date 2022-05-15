@@ -92,7 +92,7 @@ Patterns:
 ## Ilustrações e vetores
 - [Ouch](https://icons8.com.br/illustrations)
 - [storyset](https://storyset.com/)
-- [IcoMoon App] (https://icomoon.io/app/)
+- [IcoMoon App](https://icomoon.io/app/)
 - [ManyPixels](https://www.manypixels.co/gallery)
 - [unDraw](https://undraw.co/illustrations)
 
