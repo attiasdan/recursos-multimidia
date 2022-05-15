@@ -68,7 +68,7 @@ Este projeto tem por objetivo otimizar a busca por informações de qualidade so
 
 ## Paletas de Cores
 - [Adobe Colors](https://color.adobe.com/pt/create/color-wheel)
-
+ 
 ## Fontes tipográficas
 - [Google Fonts](https://fonts.google.com/)
 - [DaFont](https://www.dafont.com/pt/)
@@ -86,9 +86,15 @@ Este projeto tem por objetivo otimizar a busca por informações de qualidade so
 - [plugpng]()
 - [picpng]()
 - [pngtree]()
+Patterns:
+- [Transparent Textures](https://www.transparenttextures.com/)
 
 ## Ilustrações e vetores
 - [Ouch](https://icons8.com.br/illustrations)
+- [storyset](https://storyset.com/)
+- [IcoMoon App] (https://icomoon.io/app/)
+- [ManyPixels](https://www.manypixels.co/gallery)
+- [unDraw](https://undraw.co/illustrations)
 
 ## Ícones
 - [Freepik](https://br.freepik.com/)
