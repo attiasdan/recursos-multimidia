@@ -13,7 +13,7 @@ Este projeto objetiva otimizar a busca por informações de qualidade sobre Sist
 - Profissionais de Audiovisual em geral;
 - E outros profissionais de multimídia.
 
-### Canais para obtenção de conhecimentos de multimídia:
+### 📺 Canais do Youtube para obtenção de conhecimentos de multimídia:
 - [Ossia - Centro Musical](https://www.youtube.com/user/OssiaCentroMusical)
 - [BLK Midia](https://www.youtube.com/c/blkmidia/)
 - [Audio Academy](https://www.youtube.com/c/AudioAcademy_BR)
@@ -49,7 +49,7 @@ Este projeto objetiva otimizar a busca por informações de qualidade sobre Sist
 - [Agência Mosca](https://www.youtube.com/user/agenciamosca)
 - [Universidade da Tecnologia](https://www.youtube.com/channel/UC3LYh7N4qIFSDjH7Z-7COAA)
 
-### Playlists de tópicos de Sistemas Multimídia
+### ▶️ Playlists de tópicos de Sistemas Multimídia
 - [Sistemas de Vídeo](https://www.youtube.com/watch?v=tilSkSclJY0&list=PLs-Dm5hMoYpGY2EmpZTFtAK6ABcFuo2vr&ab_channel=ArthurPorto)
 - [Curso de Áudio](https://www.youtube.com/watch?v=hc_HttanVls&list=PL_TqAU4yPHO44TveASYl3aFZH_OjZS8YW)
 - [Fundamentos da Edição](https://www.youtube.com/watch?v=FZLRI96HpXQ&list=PLOdsUlopgxkee0_U-Sn7EoiF9kms7HdzM&ab_channel=AvMakers)
@@ -91,7 +91,7 @@ Este projeto objetiva otimizar a busca por informações de qualidade sobre Sist
 - [picpng]()
 - [pngtree]()
 
-## Background Patterns:
+## ⭐ Background Patterns:
 - [Transparent Textures](https://www.transparenttextures.com/)
 
 ## 👨🏻‍🎨 Ilustrações e vetores
@@ -115,5 +115,5 @@ Este projeto objetiva otimizar a busca por informações de qualidade sobre Sist
 ## 📜 Editor Markdown:
 - [Editor Markdown Onine](https://editormarkdown.com/)
 
-## Geradores de Estilos:
+## ⭐ Geradores de Estilos:
 - 🚧 _Inserções futuras_
