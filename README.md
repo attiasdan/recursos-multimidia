@@ -1,7 +1,9 @@
-# Recursos gratuitos para Sistemas Multimídia
-Este projeto tem por objetivo otimizar a busca por informações de qualidade sobre Sistemas Multimídia, listando as referências disponíveis na Web. Dando preferência a conteúdos gratuitos.
+# 💎 Recursos Gratuitos para Sistemas Multimídia 💎
+Este projeto objetiva otimizar a busca por informações de qualidade sobre Sistemas Multimídia, listando as referências disponíveis na Web. Dando preferência a conteúdos gratuitos.
 
-### Quem pode se beneficiar com isto?
+---
+
+### 👩‍💻 Stakeholders
 - Videomakers;
 - Designers Gráfico;
 - Designers de Interface Gráfica;
@@ -11,7 +13,7 @@ Este projeto tem por objetivo otimizar a busca por informações de qualidade so
 - Profissionais de Audiovisual em geral;
 - E outros profissionais de multimídia.
 
-## Canais no YouTube com Aulas ou Explicações
+### Canais para obtenção de conhecimentos de multimídia:
 - [Ossia - Centro Musical](https://www.youtube.com/user/OssiaCentroMusical)
 - [BLK Midia](https://www.youtube.com/c/blkmidia/)
 - [Audio Academy](https://www.youtube.com/c/AudioAcademy_BR)
@@ -52,7 +54,9 @@ Este projeto tem por objetivo otimizar a busca por informações de qualidade so
 - [Curso de Áudio](https://www.youtube.com/watch?v=hc_HttanVls&list=PL_TqAU4yPHO44TveASYl3aFZH_OjZS8YW)
 - [Fundamentos da Edição](https://www.youtube.com/watch?v=FZLRI96HpXQ&list=PLOdsUlopgxkee0_U-Sn7EoiF9kms7HdzM&ab_channel=AvMakers)
 
-## Músicas e Áudios Gratuitos
+---
+
+## 🎵 Músicas e Áudios Gratuitos
 - [NoCopyrightSounds](https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg)
 - [Audio Library — Music for content creators](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA)
 - [Vlog No Copyright Music](https://www.youtube.com/channel/UCEickjZj99-JJIU8_IJ7J-Q)
@@ -60,22 +64,22 @@ Este projeto tem por objetivo otimizar a busca por informações de qualidade so
 - [Bensound](https://www.bensound.com/)
 - [freesound](https://freesound.org)
 
-## Vídeos Gratuitos
+## 🎬 Vídeos Gratuitos
 - [Videezy](https://pt.videezy.com/)
 - [Pexels](https://www.pexels.com/videos/)
 - [Pixabay](https://pixabay.com/pt/videos/)
 - [Life of vids](https://www.lifeofvids.com/)
 
-## Paletas de Cores
+## 🎨 Paletas de Cores
 - [Adobe Colors](https://color.adobe.com/pt/create/color-wheel)
  
-## Fontes tipográficas
+## 🔠 Fontes tipográficas
 - [Google Fonts](https://fonts.google.com/)
 - [DaFont](https://www.dafont.com/pt/)
 - [NetFonts](https://www.netfontes.com.br/)
 - [Urbanfonts](https://www.urbanfonts.com/pt)
 
-## Imagens Gratuitas
+## 🖼️ Imagens Gratuitas
 - [Pexels](https://www.pexels.com/pt-br/)
 - [Freeimages](https://www.freeimages.com/pt)
 - [Freejpg](https://br.freejpg.com.ar/)
@@ -86,20 +90,30 @@ Este projeto tem por objetivo otimizar a busca por informações de qualidade so
 - [plugpng]()
 - [picpng]()
 - [pngtree]()
-Patterns:
+
+## Background Patterns:
 - [Transparent Textures](https://www.transparenttextures.com/)
 
-## Ilustrações e vetores
+## 👨🏻‍🎨 Ilustrações e vetores
 - [Ouch](https://icons8.com.br/illustrations)
 - [storyset](https://storyset.com/)
 - [IcoMoon App](https://icomoon.io/app/)
 - [ManyPixels](https://www.manypixels.co/gallery)
 - [unDraw](https://undraw.co/illustrations)
 
-## Ícones
+## 🥓 Ícones
 - [Freepik](https://br.freepik.com/)
 - [Icons8 Icons](https://icons8.com.br/icons)
 - [Flaticon](https://www.flaticon.com/br/)
 
-## Animações e Gifs
+## 🙌 Animações e Gifs
 - [Giphy](https://giphy.com/)
+
+## 🍏 Emojis
+- [EmojiTerra](https://emojiterra.com/pt/)
+
+## 📜 Editor Markdown:
+- [Editor Markdown Onine](https://editormarkdown.com/)
+
+## Geradores de Estilos:
+- 🚧 _Inserções futuras_
